@@ -12,21 +12,21 @@ The system extracts key skills, evaluates resumes, and generates personalized in
 
 - Contextual Job-Candidate Fit: Evaluates skill-job alignment using contextual embeddings.
 
-Bias Reduction and Feedback Learning: Continuously improves decision-making while minimizing biases.
+- Bias Reduction and Feedback Learning: Continuously improves decision-making while minimizing biases.
 
-Scalable Modular Architecture: Handles large applicant pools efficiently with flexibility and precision.
+- Scalable Modular Architecture: Handles large applicant pools efficiently with flexibility and precision.
 
 **Objectives**
 
-Automate and optimize resume analysis and candidate evaluation.
+- Automate and optimize resume analysis and candidate evaluation.
 
-Personalize interviews dynamically based on each candidate's background.
+- Personalize interviews dynamically based on each candidate's background.
 
-Provide recruiters with actionable, data-driven hiring insights.
+- Provide recruiters with actionable, data-driven hiring insights.
 
-Enhance candidate experience through personalized feedback.
+- Enhance candidate experience through personalized feedback.
 
-Promote fair, unbiased recruitment practices.
+- Promote fair, unbiased recruitment practices.
 
 **Problem Statement**
 
@@ -34,55 +34,55 @@ Traditional recruitment methods rely heavily on manual screening and subjective 
 Existing automated systems often struggle with unstructured data and lack personalization.
 A smart, adaptive, and data-driven system is needed to:
 
-Streamline the recruitment process.
+- Streamline the recruitment process.
 
-Reduce hiring biases.
+- Reduce hiring biases.
 
-Improve the quality and efficiency of talent acquisition.
+- Improve the quality and efficiency of talent acquisition.
 
 **Methodology**
 
-Resume Parsing: Use T5 transformer for semantic extraction of candidate details.
+- Resume Parsing: Use T5 transformer for semantic extraction of candidate details.
 
-Dynamic Interviewing: Generate personalized questions using NLP libraries like spaCy and NLTK.
+- Dynamic Interviewing: Generate personalized questions using NLP libraries like spaCy and NLTK.
 
-Real-Time Response Analysis: Evaluate candidate answers with transformer-based classifiers.
+- Real-Time Response Analysis: Evaluate candidate answers with transformer-based classifiers.
 
-Scoring System: Score resumes and interview performance objectively.
+- Scoring System: Score resumes and interview performance objectively.
 
-Feedback Mechanism: Provide detailed feedback to candidates and recruiters.
+- Feedback Mechanism: Provide detailed feedback to candidates and recruiters.
 
 **Tools and Technologies**
 
-Python
+- Python
 
-Natural Language Processing (spaCy, NLTK)
+- Natural Language Processing (spaCy, NLTK)
 
-Machine Learning (Scikit-Learn, TensorFlow/PyTorch)
+- Machine Learning (Scikit-Learn, TensorFlow/PyTorch)
 
-T5 Transformer Model
+- T5 Transformer Model
 
-Database Systems (e.g., MongoDB or PostgreSQL)
+- Database Systems (e.g., MongoDB or PostgreSQL)
 
 **Results**
 
-Achieved 92% accuracy in matching candidates to job roles.
+- Achieved 92% accuracy in matching candidates to job roles.
 
-Reduced resume screening time by 70%.
+- Reduced resume screening time by 70%.
 
-Improved interview quality by 35% through dynamic question generation.
+- Improved interview quality by 35% through dynamic question generation.
 
-Increased hiring precision and reduced bias compared to traditional methods.
+- Increased hiring precision and reduced bias compared to traditional methods.
 
 **Future Work**
 
-Expand to support multilingual resume parsing and interviews.
+- Expand to support multilingual resume parsing and interviews.
 
-Integrate emotional and behavioral analysis during interviews.
+- Integrate emotional and behavioral analysis during interviews.
 
-Enable real-time recruiter-candidate interaction dashboards.
+- Enable real-time recruiter-candidate interaction dashboards.
 
-Enhance adaptability to evolving job market requirements.
+- Enhance adaptability to evolving job market requirements.
 
 **Conclusion**
 
